@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Milion12041997
 - 👀 I’m interested in developing software
 - 🌱 I’m currently learning computer science @Arsi university 
-- 💞️ I’m looking to collaborate on software projecys
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me you can contact me by using +251934957729
 
 <!---
